@@ -2,14 +2,11 @@
 //
 
 #include "lab7.h"
-
-
 #include <iostream>
-#include <cstdlib>
 #include <vector>
 #include <array>
 #include<random>
-#include <algorithm>
+
 
 using namespace std;
 
@@ -241,4 +238,5 @@ int main() {
 
     p2();
     return 0;
+
 }
